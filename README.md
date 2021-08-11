@@ -5,8 +5,8 @@
 <h4>Aplicação responsável por realizar operações matemáticas básicas.</h4>
   
 <p>
-<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/tamirespatrocinio/app10Dicas">
-<img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/tamirespatrocinio/app10Dicas">
-<img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/tamirespatrocinio/app10Dicas">
-<img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/tamirespatrocinio/app10Dicas">
+<img alt="Language Top" src="https://img.shields.io/github/languages/top/tamirespatrocinio/Calculadora">
+<img alt="Languages Count" src="https://img.shields.io/github/languages/count/tamirespatrocinio/Calculadora">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/tamirespatrocinio/Calculadora">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/tamirespatrocinio/Calculadora">
 </p>
