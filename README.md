@@ -10,3 +10,4 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/tamirespatrocinio/Calculadora">
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/tamirespatrocinio/Calculadora">
 </p>
+</div>
